@@ -144,7 +144,7 @@ This dashboard helps businesses:
 ---
 Project Video Link: https://www.linkedin.com/posts/akanksha-singh-4715a0351_businessintelligence-powerbi-dataanalytics-activity-7435912123106557952-_1bJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfUeJUBg9KebYN1O2RDhHW-larfsnvYGEU
 
-Power BI Dashbaord Link:  
+Power BI Dashbaord Link: https://noidainstituteofengtech-my.sharepoint.com/personal/0241csds181_niet_co_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F0241csds181%5Fniet%5Fco%5Fin%2FDocuments%2FRevenue%20Leakage%20%26%20Customer%20Retention%20Dashboard%2Epbix&parent=%2Fpersonal%2F0241csds181%5Fniet%5Fco%5Fin%2FDocuments&ga=1
 
 ## 👩‍💻 Author
 Akanksha Singh 
