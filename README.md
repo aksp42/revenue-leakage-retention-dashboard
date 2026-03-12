@@ -142,6 +142,9 @@ This dashboard helps businesses:
 - Turning data insights into business strategy
 
 ---
+Project Video Link: https://www.linkedin.com/posts/akanksha-singh-4715a0351_businessintelligence-powerbi-dataanalytics-activity-7435912123106557952-_1bJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfUeJUBg9KebYN1O2RDhHW-larfsnvYGEU
+
+Power BI Dashbaord Link:  
 
 ## 👩‍💻 Author
 Akanksha Singh 
